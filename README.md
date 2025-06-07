@@ -31,4 +31,4 @@ The data contained missing values and I handled it by replacing them with median
 | 2 | Armand Kayiranga | L1 | Adam |               |              |          |          |        |           |
 | 3 | Reponse Ashimwe  | L2 | RMSprop |            |              |          |          |        |           |
 | 4 | Nelly Iyabikoze | L1 | RMSprop |             |              |          |          |        |           |
-| 5 | Roxanne Niteka |     |         |             |              |          |          |        |           |
+| 5 | Roxanne Niteka |  L2   |    Nadam     |    Patience=10         |              |          |          |        |           |
