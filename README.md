@@ -3,7 +3,8 @@
 
 This project implements a neural network-based classification model using TensorFlow/Keras on a provided dataset. The goal is to explore different optimization techniques, including learning rate adjustments, dropout regularization, and early stopping, while ensuring fair group contribution and in-depth model evaluation.
 
-
+## Link to the dataset
+https://www.kaggle.com/datasets/uom190346a/water-quality-and-potability?select=water_potability.csv
 # Classification Model Using Neural Networks
 ---
 
