@@ -17,6 +17,12 @@ This project implements a neural network-based classification model using Tensor
 | 4 | Nelly Iyabikoze | L1 | RMSprop |     (patience=10)        |     0.03         |  0.62       |  0.48        | 0.50       |      0.392     |
 | 5 | Roxanne Niteka |     |         |             |              |          |          |        |           |
 
+
+## 📄 Project Report
+
+You can read our full report [here](https://docs.google.com/document/d/1wvrfSuW0OgqkA_bYPLtgUVW4rlBKksQuwJWycEo6uNE/edit?usp=sharing).
+
+
 ## Team Collaboration
 
 - Annabelle Ineza 
